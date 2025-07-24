@@ -2,8 +2,8 @@ import React from 'react'
 
 function Middel() {
   return (
-    <div className='flex body-flex text-bold   justify-center '>
-      <div className="items-center ">
+    <div className='flex p-8 text-bold items-center justify-center '>
+      <div className=" ">
        <h1 className='text-bold text-xl'>Hi I'm Nadim Shaikh </h1> 
        <h3 className='text-red-600'>Frontend Devlper</h3>
        <p className="">

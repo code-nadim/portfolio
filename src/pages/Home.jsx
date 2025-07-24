@@ -10,7 +10,7 @@ export default function Home() {
     <div className=" h-[10%] ">
        <Header/>
     </div>
-     <div className=" h-[80%] bg-blue-400 ">
+     <div className=" h-screen bg-blue-400 ">
       <Middel/>
      </div>
      <div className="bg-gray-900 h-[10%] items-center ">
